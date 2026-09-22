@@ -20,6 +20,74 @@
         "version": "2.6.2",
         "cells": [
           {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": -1,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false,
+              "crossingFlows": [],
+              "containedElements": []
+            },
+            "labels": [
+              "Trust Boundary"
+            ],
+            "id": "dbe817e4-2b8b-49eb-b848-188c9575f0b6",
+            "source": {
+              "x": 460,
+              "y": 180
+            },
+            "target": {
+              "cell": "b804b317-e91f-4418-8ea9-1e135a93875f",
+              "port": "65dd39bd-f020-4e0e-933b-2a6877d958eb"
+            },
+            "vertices": [
+              {
+                "x": 330,
+                "y": 280
+              }
+            ]
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": -1,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false,
+              "crossingFlows": [],
+              "containedElements": []
+            },
+            "labels": [
+              "Trust Boundary"
+            ],
+            "id": "779b3957-7017-4fa5-9ed6-12a78044ec14",
+            "source": {
+              "cell": "b804b317-e91f-4418-8ea9-1e135a93875f",
+              "port": "649e1991-e21e-499a-9125-625e77c0fc11"
+            },
+            "target": {
+              "cell": "cdb8a29e-35a3-41dc-9316-f589bf75551d",
+              "port": "b29b5ed8-fd6c-4f66-bc80-53fa759b9d22"
+            },
+            "vertices": [
+              {
+                "x": 840,
+                "y": 570
+              }
+            ]
+          },
+          {
             "position": {
               "x": 520,
               "y": 250
