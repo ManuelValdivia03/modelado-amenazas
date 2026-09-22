@@ -1485,9 +1485,19 @@
           }
         ],
         "description": "Representa los componentes principales del sitio web de la biblioteca universitaria y el flujo de datos entre los usuarios, el servidor web y la base de datos, con el propósito de identificar posibles amenazas de seguridad."
+      },
+      {
+        "id": 1,
+        "title": "Diagrama de flujo de datos de inicio de sesión del usuario para el sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Representa el flujo de datos durante el inicio de sesión de los usuarios en el sitio web de la biblioteca universitaria, incluyendo la recepción de credenciales, su validación y la consulta a la base de datos."
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Guillermo Vera",
     "threatTop": 14
   }
