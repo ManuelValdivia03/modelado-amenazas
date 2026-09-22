@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-09-22",
+  "summary": {
+    "title": "Sitio web de la biblioteca universitaria",
+    "owner": "Manuel Valdivia",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un sitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca (estudiantes y personal universitario).\n\nComo esta es la primera implementación del sitio web, la funcionalidad será limitada. Serán tres usuarios de la aplicación:\n1. Estudiantes.\n2. Personal.\n3. Bibliotecarios.\n\nEl personal y los estudiantes podrán iniciar sesión y buscar libros, y los miembros del personal podrán solicitar libros. Los bibliotecarios podrán iniciar sesión, agregar libros, agregar usuarios y buscar libros.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama de flujo de datos para el sitio web de la biblioteca universitaria",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Representa los componentes principales del sitio web de la biblioteca universitaria y el flujo de datos entre los usuarios, el servidor web y la base de datos, con el propósito de identificar posibles amenazas de seguridad."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Guillermo Vera",
+    "threatTop": 0
+  }
+}
